@@ -1,0 +1,8 @@
+prefix=/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavlink_ros
+
+Name: mavlink_ros
+Description: Description of mavlink_ros
+Version: 0.0.0
+Cflags: -I/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavlink_ros/include -I/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy message_generation message_runtime std_msgs geometry_msgs

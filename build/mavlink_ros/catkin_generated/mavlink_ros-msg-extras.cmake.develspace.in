@@ -1,0 +1,2 @@
+set(mavlink_ros_MESSAGE_FILES "/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/msg/AslctrlData.msg;/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/msg/AslctrlDebug.msg;/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/msg/CustomSensorData.msg;/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/msg/GlobalPosition.msg;/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/msg/Mavlink.msg;/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/msg/ServoOutput.msg")
+set(mavlink_ros_SERVICE_FILES "")

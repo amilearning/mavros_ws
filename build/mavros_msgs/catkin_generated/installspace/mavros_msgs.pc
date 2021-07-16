@@ -1,0 +1,8 @@
+prefix=/home/hojin/drone_ws/ethz_ws/mavros_ws/install
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 0.17.5
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime std_msgs

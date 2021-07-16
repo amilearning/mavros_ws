@@ -1,0 +1,1 @@
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake

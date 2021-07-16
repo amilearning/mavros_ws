@@ -1,0 +1,8 @@
+prefix=/home/hojin/drone_ws/ethz_ws/mavros_ws/install
+
+Name: mavros
+Description: Description of mavros
+Version: 0.17.5
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -lmavros /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: diagnostic_msgs diagnostic_updater pluginlib roscpp sensor_msgs nav_msgs std_msgs tf2_ros geometry_msgs libmavconn message_runtime eigen_conversions mavros_msgs

@@ -1,0 +1,8 @@
+prefix=/home/hojin/drone_ws/ethz_ws/mavros_ws/devel
+exec_prefix=/home/hojin/drone_ws/ethz_ws/mavros_ws/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2021.7.7
+Cflags: -I${includedir}

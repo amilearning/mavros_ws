@@ -1,0 +1,117 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _mavlink_ros_generate_messages_check_deps_ServoOutput[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _mavlink_ros_generate_messages_check_deps_CustomSensorData[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target _mavlink_ros_generate_messages_check_deps_AslctrlDebug[0m
+[35m[1mScanning dependencies of target _mavlink_ros_generate_messages_check_deps_AslctrlData[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _mavlink_ros_generate_messages_check_deps_Mavlink[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _mavlink_ros_generate_messages_check_deps_GlobalPosition[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _mavlink_ros_generate_messages_check_deps_AslctrlDebug
+[  0%] Built target _mavlink_ros_generate_messages_check_deps_CustomSensorData
+[  0%] Built target _mavlink_ros_generate_messages_check_deps_ServoOutput
+[  0%] Built target _mavlink_ros_generate_messages_check_deps_Mavlink
+[  0%] Built target _mavlink_ros_generate_messages_check_deps_AslctrlData
+[  0%] Built target _mavlink_ros_generate_messages_check_deps_GlobalPosition
+[35m[1mScanning dependencies of target mavlink_ros_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mavlink_ros_generate_messages_eus[0m
+[35m[1mScanning dependencies of target mavlink_ros_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target mavlink_ros_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mavlink_ros_generate_messages_py[0m
+[  5%] [34m[1mGenerating C++ code from mavlink_ros/ServoOutput.msg[0m
+[  5%] [34m[1mGenerating Lisp code from mavlink_ros/ServoOutput.msg[0m
+[  8%] [34m[1mGenerating EusLisp manifest code for mavlink_ros[0m
+[ 11%] [34m[1mGenerating C++ code from mavlink_ros/GlobalPosition.msg[0m
+[ 14%] [34m[1mGenerating Python from MSG mavlink_ros/GlobalPosition[0m
+[ 17%] [34m[1mGenerating C++ code from mavlink_ros/Mavlink.msg[0m
+[ 23%] [34m[1mGenerating EusLisp code from mavlink_ros/ServoOutput.msg[0m
+[ 23%] [34m[1mGenerating Javascript code from mavlink_ros/CustomSensorData.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from mavlink_ros/AslctrlData.msg[0m
+[ 41%] [34m[1mGenerating C++ code from mavlink_ros/CustomSensorData.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from mavlink_ros/Mavlink.msg[0m
+[ 44%] [34m[1mGenerating EusLisp code from mavlink_ros/AslctrlData.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from mavlink_ros/CustomSensorData.msg[0m
+[ 32%] [34m[1mGenerating EusLisp code from mavlink_ros/Mavlink.msg[0m
+[ 35%] [34m[1mGenerating Lisp code from mavlink_ros/GlobalPosition.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG mavlink_ros/Mavlink[0m
+[ 50%] [34m[1mGenerating Lisp code from mavlink_ros/AslctrlDebug.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from mavlink_ros/CustomSensorData.msg[0m
+[ 55%] [34m[1mGenerating Python from MSG mavlink_ros/AslctrlDebug[0m
+[ 58%] [34m[1mGenerating Python from MSG mavlink_ros/AslctrlData[0m
+[ 64%] [34m[1mGenerating EusLisp code from mavlink_ros/GlobalPosition.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from mavlink_ros/AslctrlDebug.msg[0m
+[ 67%] [34m[1mGenerating C++ code from mavlink_ros/AslctrlData.msg[0m
+[ 70%] [34m[1mGenerating C++ code from mavlink_ros/AslctrlDebug.msg[0m
+[ 73%] [34m[1mGenerating Python from MSG mavlink_ros/CustomSensorData[0m
+[ 76%] [34m[1mGenerating Python from MSG mavlink_ros/ServoOutput[0m
+[ 79%] [34m[1mGenerating Javascript code from mavlink_ros/AslctrlData.msg[0m
+[ 82%] [34m[1mGenerating Javascript code from mavlink_ros/ServoOutput.msg[0m
+[ 85%] [34m[1mGenerating Javascript code from mavlink_ros/GlobalPosition.msg[0m
+[ 88%] [34m[1mGenerating Javascript code from mavlink_ros/Mavlink.msg[0m
+[ 91%] [34m[1mGenerating Javascript code from mavlink_ros/AslctrlDebug.msg[0m
+[ 91%] Built target mavlink_ros_generate_messages_lisp
+[ 91%] Built target mavlink_ros_generate_messages_nodejs
+[ 91%] Built target mavlink_ros_generate_messages_cpp
+[ 94%] [34m[1mGenerating Python msg __init__.py for mavlink_ros[0m
+[ 94%] Built target mavlink_ros_generate_messages_py
+[ 94%] Built target mavlink_ros_generate_messages_eus
+[35m[1mScanning dependencies of target mavlink_ros_serial[0m
+[35m[1mScanning dependencies of target mavlink_ros_generate_messages[0m
+[ 94%] Built target mavlink_ros_generate_messages
+[ 97%] [32mBuilding CXX object CMakeFiles/mavlink_ros_serial.dir/src/mavlink_ros_serial.cpp.o[0m
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:1032:23:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid g_thread_init(gpointer)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     g_thread_init(NULL[01;35m[K)[m[K;
+                       [01;35m[K^[m[K
+In file included from [01m[K/usr/include/glib-2.0/glib.h:108:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:53[m[K:
+[01m[K/usr/include/glib-2.0/glib/deprecated/gthread.h:265:10:[m[K [01;36m[Knote: [m[Kdeclared here
+ void     [01;36m[Kg_thread_init[m[K                   (gpointer vtable);
+          [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:1041:67:[m[K [01;35m[Kwarning: [m[K‘[01m[KGThread* g_thread_create(GThreadFunc, gpointer, gboolean, GError**)[m[K’ is deprecated: Use 'g_thread_new' instead [[01;35m[K-Wdeprecated-declarations[m[K]
+                                        (void *) fd_ptr, TRUE, &err[01;35m[K)[m[K) == NULL) {
+                                                                   [01;35m[K^[m[K
+In file included from [01m[K/usr/include/glib-2.0/glib.h:108:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:53[m[K:
+[01m[K/usr/include/glib-2.0/glib/deprecated/gthread.h:104:10:[m[K [01;36m[Knote: [m[Kdeclared here
+ GThread *[01;36m[Kg_thread_create[m[K       (GThreadFunc       func,
+          [01;36m[K^~~~~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavlink_ros/lib/mavlink_ros/mavlink_ros_serial[0m
+[100%] Built target mavlink_ros_serial

@@ -1,0 +1,935 @@
+[  0%] Built target mavlink_ros_generate_messages_nodejs
+[  0%] Built target mavlink_ros_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target mavlink_ros_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target mavlink_ros_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target uuid_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target uuid_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target geographic_msgs_generate_messages_eus
+[  0%] Built target diagnostic_msgs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target geographic_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target mavros_msgs_generate_messages_nodejs
+[  0%] Built target mavlink_ros_generate_messages_lisp
+[  0%] Built target diagnostic_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target diagnostic_msgs_generate_messages_lisp
+[  0%] Built target uuid_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target geographic_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geographic_msgs_generate_messages_cpp
+[  0%] Built target mavros_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target mavros_msgs_generate_messages_cpp
+[  0%] Built target uuid_msgs_generate_messages_py
+[  0%] Built target uuid_msgs_generate_messages_nodejs
+[  0%] Built target mavros_msgs_generate_messages_lisp
+[  0%] Built target mavros_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target diagnostic_msgs_generate_messages_cpp
+[  0%] Built target mav_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_eus
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geographic_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target mavros[0m
+[  4%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/mavros.cpp.o[0m
+[  4%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/enum_sensor_orientation.cpp.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/enum_to_string.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_data.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_stringify.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/mavros.dir/src/lib/uas_timesync.cpp.o[0m
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:18[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:22[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:34:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_AUTOPILOT[m[K’
+ enum class [01;36m[KMAV_AUTOPILOT[m[K : uint8_t
+            [01;36m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KAIS_TYPE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_TYPE[m[K e);
+                                        [01;36m[K^~~~~~~~[m[K
+                                        [32m[KAIS_TYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_FRAME[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_STATE[m[K e);
+                                        [01;36m[K^~~~~~~~~[m[K
+                                        [32m[KMAV_FRAME[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_COMPONENT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_MODE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_COMPONENT[m[K e);
+                                        [01;36m[K^~~~~~~~~~~~~[m[K
+                                        [32m[KMAV_MODE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:114:18:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+ mavlink::common::[01;31m[KMAV_TYPE[m[K mav_type_from_str(const std::string &mav_type);
+                  [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:24:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kmavlink::common::MAV_AUTOPILOT[m[K’ has not been declared
+ using mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K;
+                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:25:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kmavlink::common::MAV_TYPE[m[K’ has not been declared
+ using mavlink::common::[01;31m[KMAV_TYPE[m[K;
+                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:26:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kmavlink::common::MAV_STATE[m[K’ has not been declared
+ using mavlink::common::[01;31m[KMAV_STATE[m[K;
+                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:27:24:[m[K [01;31m[Kerror: [m[K‘[01m[Kmavlink::common::MAV_COMPONENT[m[K’ has not been declared
+ using mavlink::common::[01;31m[KMAV_COMPONENT[m[K;
+                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:131:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string([01;31m[KMAV_AUTOPILOT[m[K e)
+                       [01;31m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:80:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::LANDING_TARGET_TYPE)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::LANDING_TARGET_TYPE e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:131:23:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ was not declared in this scope
+ std::string to_string([01;31m[KMAV_AUTOPILOT[m[K e)
+                       [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:131:23:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:18[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:22[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:34:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_AUTOPILOT[m[K’
+ enum class [01;36m[KMAV_AUTOPILOT[m[K : uint8_t
+            [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:192:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string([01;31m[KMAV_TYPE[m[K e)
+                       [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:80:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::LANDING_TARGET_TYPE)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::LANDING_TARGET_TYPE e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:192:23:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ was not declared in this scope
+ std::string to_string([01;31m[KMAV_TYPE[m[K e)
+                       [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:192:23:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:18[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:22[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:62:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_TYPE[m[K’
+ enum class [01;36m[KMAV_TYPE[m[K : uint8_t
+            [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:243:21:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ was not declared in this scope
+ std::string to_name([01;31m[KMAV_TYPE[m[K e)
+                     [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:243:21:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:18[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:22[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:62:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_TYPE[m[K’
+ enum class [01;36m[KMAV_TYPE[m[K : uint8_t
+            [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:244:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K,[m[K’ or ‘[01m[K;[m[K’ before ‘[01m[K{[m[K’ token
+ [01;31m[K{[m[K
+ [01;31m[K^[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:280:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string([01;31m[KMAV_STATE[m[K e)
+                       [01;31m[K^~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:80:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::LANDING_TARGET_TYPE)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::LANDING_TARGET_TYPE e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:280:23:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ was not declared in this scope
+ std::string to_string([01;31m[KMAV_STATE[m[K e)
+                       [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:280:23:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:18[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:22[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:138:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_STATE[m[K’
+ enum class [01;36m[KMAV_STATE[m[K : uint8_t
+            [01;36m[K^~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_sensor_orientation.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:18[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:22[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_sensor_orientation.cpp:17[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:34:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_AUTOPILOT[m[K’
+ enum class [01;36m[KMAV_AUTOPILOT[m[K : uint8_t
+            [01;36m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_sensor_orientation.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KAIS_TYPE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_TYPE[m[K e);
+                                        [01;36m[K^~~~~~~~[m[K
+                                        [32m[KAIS_TYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_FRAME[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_STATE[m[K e);
+                                        [01;36m[K^~~~~~~~~[m[K
+                                        [32m[KMAV_FRAME[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_COMPONENT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_MODE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_COMPONENT[m[K e);
+                                        [01;36m[K^~~~~~~~~~~~~[m[K
+                                        [32m[KMAV_MODE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:114:18:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+ mavlink::common::[01;31m[KMAV_TYPE[m[K mav_type_from_str(const std::string &mav_type);
+                  [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:584:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string([01;31m[KMAV_COMPONENT[m[K e)
+                       [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:431:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::GPS_FIX_TYPE)[m[K’
+ std::string [01;36m[Kto_string[m[K(GPS_FIX_TYPE e)
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:584:23:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_COMPONENT[m[K’ was not declared in this scope
+ std::string to_string([01;31m[KMAV_COMPONENT[m[K e)
+                       [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:584:23:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:18[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:22[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:19[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:157:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_COMPONENT[m[K’
+ enum class [01;36m[KMAV_COMPONENT[m[K
+            [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/enum_to_string.cpp:608:1:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ does not name a type; did you mean ‘[01m[KLC_CTYPE[m[K’?
+ [01;31m[KMAV_TYPE[m[K mav_type_from_str(const std::string &mav_type)
+ [01;31m[K^~~~~~~~[m[K
+ [32m[KLC_CTYPE[m[K
+CMakeFiles/mavros.dir/build.make:86: recipe for target 'CMakeFiles/mavros.dir/src/lib/enum_to_string.cpp.o' failed
+make[2]: *** [CMakeFiles/mavros.dir/src/lib/enum_to_string.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+CMakeFiles/mavros.dir/build.make:62: recipe for target 'CMakeFiles/mavros.dir/src/lib/enum_sensor_orientation.cpp.o' failed
+make[2]: *** [CMakeFiles/mavros.dir/src/lib/enum_sensor_orientation.cpp.o] Error 1
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:17[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/interface.h:37[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:28[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:17[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:34:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_AUTOPILOT[m[K’
+ enum class [01;36m[KMAV_AUTOPILOT[m[K : uint8_t
+            [01;36m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:17[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KAIS_TYPE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_TYPE[m[K e);
+                                        [01;36m[K^~~~~~~~[m[K
+                                        [32m[KAIS_TYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_FRAME[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_STATE[m[K e);
+                                        [01;36m[K^~~~~~~~~[m[K
+                                        [32m[KMAV_FRAME[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_COMPONENT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_MODE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_COMPONENT[m[K e);
+                                        [01;36m[K^~~~~~~~~~~~~[m[K
+                                        [32m[KMAV_MODE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:114:18:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+ mavlink::common::[01;31m[KMAV_TYPE[m[K mav_type_from_str(const std::string &mav_type);
+                  [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:17[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/interface.h:37[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:28[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:17[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:34:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_AUTOPILOT[m[K’
+ enum class [01;36m[KMAV_AUTOPILOT[m[K : uint8_t
+            [01;36m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:17[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KAIS_TYPE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_TYPE[m[K e);
+                                        [01;36m[K^~~~~~~~[m[K
+                                        [32m[KAIS_TYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_FRAME[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_STATE[m[K e);
+                                        [01;36m[K^~~~~~~~~[m[K
+                                        [32m[KMAV_FRAME[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_COMPONENT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_MODE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_COMPONENT[m[K e);
+                                        [01;36m[K^~~~~~~~~~~~~[m[K
+                                        [32m[KMAV_MODE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:114:18:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+ mavlink::common::[01;31m[KMAV_TYPE[m[K mav_type_from_str(const std::string &mav_type);
+                  [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros.h:24[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:15[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/interface.h:37[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros.h:23[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:15[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:34:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_AUTOPILOT[m[K’
+ enum class [01;36m[KMAV_AUTOPILOT[m[K : uint8_t
+            [01;36m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros.h:24[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:15[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KAIS_TYPE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_TYPE[m[K e);
+                                        [01;36m[K^~~~~~~~[m[K
+                                        [32m[KAIS_TYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_FRAME[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_STATE[m[K e);
+                                        [01;36m[K^~~~~~~~~[m[K
+                                        [32m[KMAV_FRAME[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_COMPONENT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_MODE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_COMPONENT[m[K e);
+                                        [01;36m[K^~~~~~~~~~~~~[m[K
+                                        [32m[KMAV_MODE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:114:18:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+ mavlink::common::[01;31m[KMAV_TYPE[m[K mav_type_from_str(const std::string &mav_type);
+                  [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_timesync.cpp:17[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:70:40:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/common.hpp:2290:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/mavlink_dialect.h:26[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/libmavconn/include/mavconn/interface.h:37[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:28[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_timesync.cpp:17[m[K:
+[01m[K/home/hojin/catkin_ws/devel/include/mavlink/v2.0/common/../minimal/minimal.hpp:34:12:[m[K [01;36m[Knote: [m[K  ‘[01m[Kmavlink::minimal::MAV_AUTOPILOT[m[K’
+ enum class [01;36m[KMAV_AUTOPILOT[m[K : uint8_t
+            [01;36m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:29:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_timesync.cpp:17[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_TYPE[m[K e);
+                                        [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:71:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KAIS_TYPE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_TYPE[m[K e);
+                                        [01;36m[K^~~~~~~~[m[K
+                                        [32m[KAIS_TYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_STATE[m[K e);
+                                        [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:72:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_FRAME[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_STATE[m[K e);
+                                        [01;36m[K^~~~~~~~~[m[K
+                                        [32m[KMAV_FRAME[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kstd::__cxx11::string mavros::utils::to_string[m[K’ redeclared as different kind of symbol
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:68:13:[m[K [01;36m[Knote: [m[Kprevious declaration ‘[01m[Kstd::__cxx11::string mavros::utils::to_string(mavlink::common::MAV_SENSOR_ORIENTATION)[m[K’
+ std::string [01;36m[Kto_string[m[K(mavlink::common::MAV_SENSOR_ORIENTATION e);
+             [01;36m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_COMPONENT[m[K’ is not a member of ‘[01m[Kmavlink::common[m[K’
+ std::string to_string(mavlink::common::[01;31m[KMAV_COMPONENT[m[K e);
+                                        [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:73:40:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KMAV_MODE[m[K’
+ std::string to_string(mavlink::common::[01;36m[KMAV_COMPONENT[m[K e);
+                                        [01;36m[K^~~~~~~~~~~~~[m[K
+                                        [32m[KMAV_MODE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/utils.h:114:18:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+ mavlink::common::[01;31m[KMAV_TYPE[m[K mav_type_from_str(const std::string &mav_type);
+                  [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:73:36:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_TYPE = mavlink::common::[01;31m[KMAV_TYPE[m[K;
+                                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:74:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_AUTOPILOT = mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:75:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_MODE_FLAG = mavlink::common::[01;31m[KMAV_MODE_FLAG[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:76:37:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_STATE = mavlink::common::[01;31m[KMAV_STATE[m[K;
+                                     [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:119:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ does not name a type; did you mean ‘[01m[KLC_CTYPE[m[K’?
+  inline [01;31m[KMAV_TYPE[m[K get_type() {
+         [01;31m[K^~~~~~~~[m[K
+         [32m[KLC_CTYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:127:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ does not name a type
+  inline [01;31m[KMAV_AUTOPILOT[m[K get_autopilot() {
+         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_armed()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:139:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::SAFETY_ARMED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_hil_state()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:147:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::HIL_ENABLED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_ardupilotmega()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::ARDUPILOTMEGA == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;31m[Kget_autopilot[m[K();
+                                          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;36m[Kget_autopilot[m[K();
+                                          [01;36m[K^~~~~~~~~~~~~[m[K
+                                          [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_px4()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::PX4 == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::PX4 == [01;31m[Kget_autopilot[m[K();
+                                [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::PX4 == [01;36m[Kget_autopilot[m[K();
+                                [01;36m[K^~~~~~~~~~~~~[m[K
+                                [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:[m[K At global scope:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:176:39:[m[K [01;35m[Kwarning: [m[Kinline variables are only available with -std=c++1z or -std=gnu++1z
+ static inline bool is_apm_copter(UAS::[01;35m[KMAV_TYPE[m[K type)
+                                       [01;35m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:176:39:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ is not a member of ‘[01m[Kmavros::UAS[m[K’
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:[m[K In member function ‘[01m[Kstd::__cxx11::string mavros::UAS::str_mode_v10(uint8_t, uint32_t)[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:187:31:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+  if (!(base_mode & enum_value([01;31m[KMAV_MODE_FLAG[m[K::CUSTOM_MODE_ENABLED)))
+                               [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:190:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_type[m[K’ was not declared in this scope
+  auto type = [01;31m[Kget_type[m[K();
+              [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:190:14:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/usr/include/boost/parameter/parameters.hpp:44:0[m[K,
+                 from [01m[K/usr/include/boost/parameter.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/signals2/signal_type.hpp:32[m[K,
+                 from [01m[K/usr/include/boost/signals2.hpp:20[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2/buffer_core.h:37[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/buffer_interface.h:35[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/buffer.h:35[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/transform_listener.h:40[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:24[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:17[m[K:
+[01m[K/usr/include/boost/parameter/aux_/unwrap_cv_reference.hpp:50:8:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::parameter::aux::get_type[m[K’
+ struct [01;36m[Kget_type[m[K
+        [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:191:12:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+  auto ap = [01;31m[Kget_autopilot[m[K();
+            [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:191:12:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+  auto ap = [01;36m[Kget_autopilot[m[K();
+            [01;36m[K^~~~~~~~~~~~~[m[K
+            [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:192:6:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+  if ([01;31m[KMAV_AUTOPILOT[m[K::ARDUPILOTMEGA == ap) {
+      [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:193:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kis_apm_copter[m[K’ cannot be used as a function
+   if (is_apm_copter(type[01;31m[K)[m[K)
+                         [01;31m[K^[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:195:20:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+   else if (type == [01;31m[KMAV_TYPE[m[K::FIXED_WING)
+                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:197:20:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+   else if (type == [01;31m[KMAV_TYPE[m[K::GROUND_ROVER)
+                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:199:20:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+   else if (type == [01;31m[KMAV_TYPE[m[K::SURFACE_BOAT)
+                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:201:20:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+   else if (type == [01;31m[KMAV_TYPE[m[K::SUBMARINE)
+                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:208:11:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+  else if ([01;31m[KMAV_AUTOPILOT[m[K::PX4 == ap)
+           [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:[m[K In member function ‘[01m[Kbool mavros::UAS::cmode_from_str(std::__cxx11::string, uint32_t&)[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:255:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_type[m[K’ was not declared in this scope
+  auto type = [01;31m[Kget_type[m[K();
+              [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:255:14:[m[K [01;36m[Knote: [m[Ksuggested alternative:
+In file included from [01m[K/usr/include/boost/parameter/parameters.hpp:44:0[m[K,
+                 from [01m[K/usr/include/boost/parameter.hpp:11[m[K,
+                 from [01m[K/usr/include/boost/signals2/signal_type.hpp:32[m[K,
+                 from [01m[K/usr/include/boost/signals2.hpp:20[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2/buffer_core.h:37[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/buffer_interface.h:35[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/buffer.h:35[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/transform_listener.h:40[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:24[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:17[m[K:
+[01m[K/usr/include/boost/parameter/aux_/unwrap_cv_reference.hpp:50:8:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::parameter::aux::get_type[m[K’
+ struct [01;36m[Kget_type[m[K
+        [01;36m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:256:12:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+  auto ap = [01;31m[Kget_autopilot[m[K();
+            [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:256:12:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+  auto ap = [01;36m[Kget_autopilot[m[K();
+            [01;36m[K^~~~~~~~~~~~~[m[K
+            [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:257:6:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+  if ([01;31m[KMAV_AUTOPILOT[m[K::ARDUPILOTMEGA == ap) {
+      [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:258:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kis_apm_copter[m[K’ cannot be used as a function
+   if (is_apm_copter(type[01;31m[K)[m[K)
+                         [01;31m[K^[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:260:20:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+   else if (type == [01;31m[KMAV_TYPE[m[K::FIXED_WING)
+                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:262:20:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+   else if (type == [01;31m[KMAV_TYPE[m[K::GROUND_ROVER)
+                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:264:20:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+   else if (type == [01;31m[KMAV_TYPE[m[K::SUBMARINE)
+                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_stringify.cpp:267:11:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+  else if ([01;31m[KMAV_AUTOPILOT[m[K::PX4 == ap)
+           [01;31m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:73:36:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_TYPE = mavlink::common::[01;31m[KMAV_TYPE[m[K;
+                                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:74:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_AUTOPILOT = mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:75:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_MODE_FLAG = mavlink::common::[01;31m[KMAV_MODE_FLAG[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:76:37:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_STATE = mavlink::common::[01;31m[KMAV_STATE[m[K;
+                                     [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:119:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ does not name a type; did you mean ‘[01m[KLC_CTYPE[m[K’?
+  inline [01;31m[KMAV_TYPE[m[K get_type() {
+         [01;31m[K^~~~~~~~[m[K
+         [32m[KLC_CTYPE[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros.h:24[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:15[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:73:36:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_TYPE = mavlink::common::[01;31m[KMAV_TYPE[m[K;
+                                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:74:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_AUTOPILOT = mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:75:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_MODE_FLAG = mavlink::common::[01;31m[KMAV_MODE_FLAG[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:76:37:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_STATE = mavlink::common::[01;31m[KMAV_STATE[m[K;
+                                     [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:127:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ does not name a type
+  inline [01;31m[KMAV_AUTOPILOT[m[K get_autopilot() {
+         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:119:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ does not name a type; did you mean ‘[01m[KLC_CTYPE[m[K’?
+  inline [01;31m[KMAV_TYPE[m[K get_type() {
+         [01;31m[K^~~~~~~~[m[K
+         [32m[KLC_CTYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_armed()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:139:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::SAFETY_ARMED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_hil_state()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:147:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::HIL_ENABLED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_ardupilotmega()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::ARDUPILOTMEGA == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;31m[Kget_autopilot[m[K();
+                                          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:127:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ does not name a type
+  inline [01;31m[KMAV_AUTOPILOT[m[K get_autopilot() {
+         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;36m[Kget_autopilot[m[K();
+                                          [01;36m[K^~~~~~~~~~~~~[m[K
+                                          [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_px4()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::PX4 == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::PX4 == [01;31m[Kget_autopilot[m[K();
+                                [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::PX4 == [01;36m[Kget_autopilot[m[K();
+                                [01;36m[K^~~~~~~~~~~~~[m[K
+                                [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_armed()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:139:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::SAFETY_ARMED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_hil_state()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:147:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::HIL_ENABLED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros.h:24[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:15[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_ardupilotmega()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::ARDUPILOTMEGA == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;31m[Kget_autopilot[m[K();
+                                          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:[m[K In constructor ‘[01m[Kmavros::UAS::UAS()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:26:18:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ has not been declared
+  type(enum_value([01;31m[KMAV_TYPE[m[K::GENERIC)),
+                  [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:27:23:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+  autopilot(enum_value([01;31m[KMAV_AUTOPILOT[m[K::GENERIC)),
+                       [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;36m[Kget_autopilot[m[K();
+                                          [01;36m[K^~~~~~~~~~~~~[m[K
+                                          [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_px4()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::PX4 == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::PX4 == [01;31m[Kget_autopilot[m[K();
+                                [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::PX4 == [01;36m[Kget_autopilot[m[K();
+                                [01;36m[K^~~~~~~~~~~~~[m[K
+                                [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:[m[K At global scope:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:91:39:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ is not a member of ‘[01m[Kmavros::UAS[m[K’
+ static uint64_t get_default_caps(UAS::[01;31m[KMAV_AUTOPILOT[m[K ap_type)
+                                       [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:[m[K In member function ‘[01m[Kuint64_t mavros::UAS::get_capabilities()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:104:27:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return get_default_caps([01;31m[Kget_autopilot[m[K());
+                           [01;31m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_timesync.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:73:36:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_TYPE = mavlink::common::[01;31m[KMAV_TYPE[m[K;
+                                    [01;31m[K^~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:74:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_AUTOPILOT = mavlink::common::[01;31m[KMAV_AUTOPILOT[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:75:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_MODE_FLAG = mavlink::common::[01;31m[KMAV_MODE_FLAG[m[K;
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:76:37:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_STATE[m[K’ in namespace ‘[01m[Kmavlink::common[m[K’ does not name a type
+  using MAV_STATE = mavlink::common::[01;31m[KMAV_STATE[m[K;
+                                     [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:104:27:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return get_default_caps([01;36m[Kget_autopilot[m[K());
+                           [01;36m[K^~~~~~~~~~~~~[m[K
+                           [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_data.cpp:104:42:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_default_caps[m[K’ cannot be used as a function
+   return get_default_caps(get_autopilot()[01;31m[K)[m[K;
+                                          [01;31m[K^[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:119:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_TYPE[m[K’ does not name a type; did you mean ‘[01m[KLC_CTYPE[m[K’?
+  inline [01;31m[KMAV_TYPE[m[K get_type() {
+         [01;31m[K^~~~~~~~[m[K
+         [32m[KLC_CTYPE[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:127:9:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ does not name a type
+  inline [01;31m[KMAV_AUTOPILOT[m[K get_autopilot() {
+         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_armed()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:139:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::SAFETY_ARMED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::get_hil_state()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:147:41:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_MODE_FLAG[m[K’ has not been declared
+   return base_mode_ & utils::enum_value([01;31m[KMAV_MODE_FLAG[m[K::HIL_ENABLED);
+                                         [01;31m[K^~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/uas_timesync.cpp:17:0[m[K:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_ardupilotmega()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::ARDUPILOTMEGA == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;31m[Kget_autopilot[m[K();
+                                          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:371:42:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::ARDUPILOTMEGA == [01;36m[Kget_autopilot[m[K();
+                                          [01;36m[K^~~~~~~~~~~~~[m[K
+                                          [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:[m[K In member function ‘[01m[Kbool mavros::UAS::is_px4()[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:10:[m[K [01;31m[Kerror: [m[K‘[01m[KMAV_AUTOPILOT[m[K’ has not been declared
+   return [01;31m[KMAV_AUTOPILOT[m[K::PX4 == get_autopilot();
+          [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;31m[Kerror: [m[K‘[01m[Kget_autopilot[m[K’ was not declared in this scope
+   return MAV_AUTOPILOT::PX4 == [01;31m[Kget_autopilot[m[K();
+                                [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/include/mavros/mavros_uas.h:378:32:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[Kautopilot[m[K’
+   return MAV_AUTOPILOT::PX4 == [01;36m[Kget_autopilot[m[K();
+                                [01;36m[K^~~~~~~~~~~~~[m[K
+                                [32m[Kautopilot[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:[m[K In lambda function:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:147:68:[m[K [01;31m[Kerror: [m[K‘[01m[Kmavlink::common::msg::HEARTBEAT[m[K’ has not been declared
+    if (this->gcs_quiet_mode && msg->msgid != mavlink::common::msg::[01;31m[KHEARTBEAT[m[K::MSG_ID &&
+                                                                    [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:[m[K In member function ‘[01m[Kvoid mavros::MavRos::log_connect_change(bool)[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavros/mavros/src/lib/mavros.cpp:371:37:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass mavros::UAS[m[K’ has no member named ‘[01m[Kget_autopilot[m[K’; did you mean ‘[01m[Kautopilot[m[K’?
+  auto ap = utils::to_string(mav_uas.[01;31m[Kget_autopilot[m[K());
+                                     [01;31m[K^~~~~~~~~~~~~[m[K
+                                     [32m[Kautopilot[m[K
+CMakeFiles/mavros.dir/build.make:254: recipe for target 'CMakeFiles/mavros.dir/src/lib/uas_stringify.cpp.o' failed
+make[2]: *** [CMakeFiles/mavros.dir/src/lib/uas_stringify.cpp.o] Error 1
+CMakeFiles/mavros.dir/build.make:278: recipe for target 'CMakeFiles/mavros.dir/src/lib/uas_timesync.cpp.o' failed
+make[2]: *** [CMakeFiles/mavros.dir/src/lib/uas_timesync.cpp.o] Error 1
+CMakeFiles/mavros.dir/build.make:230: recipe for target 'CMakeFiles/mavros.dir/src/lib/uas_data.cpp.o' failed
+make[2]: *** [CMakeFiles/mavros.dir/src/lib/uas_data.cpp.o] Error 1
+CMakeFiles/mavros.dir/build.make:182: recipe for target 'CMakeFiles/mavros.dir/src/lib/mavros.cpp.o' failed
+make[2]: *** [CMakeFiles/mavros.dir/src/lib/mavros.cpp.o] Error 1
+CMakeFiles/Makefile2:557: recipe for target 'CMakeFiles/mavros.dir/all' failed
+make[1]: *** [CMakeFiles/mavros.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

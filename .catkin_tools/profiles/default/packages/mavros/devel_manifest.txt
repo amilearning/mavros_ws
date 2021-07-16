@@ -1,0 +1,10 @@
+mavros/mavros
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/cmake.lock /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/./cmake.lock
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/share/mavros/cmake/mavrosConfig-version.cmake
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/share/mavros/cmake/mavrosConfig.cmake
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/lib/libmavros_plugins.so /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/lib/libmavros_plugins.so
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/lib/libmavros.so /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/lib/libmavros.so
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/lib/mavros/gcs_bridge /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/lib/mavros/gcs_bridge
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/lib/mavros/mavros_node /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/lib/mavros/mavros_node
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/lib/python2.7/dist-packages/mavros/__init__.py /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/lib/python2.7/dist-packages/mavros/__init__.py
+/home/hojin/drone_ws/ethz_ws/mavros_ws/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/hojin/drone_ws/ethz_ws/mavros_ws/devel/lib/pkgconfig/mavros.pc

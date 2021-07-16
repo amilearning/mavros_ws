@@ -1,0 +1,17 @@
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:1032:23:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid g_thread_init(gpointer)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     g_thread_init(NULL[01;35m[K)[m[K;
+                       [01;35m[K^[m[K
+In file included from [01m[K/usr/include/glib-2.0/glib.h:108:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:53[m[K:
+[01m[K/usr/include/glib-2.0/glib/deprecated/gthread.h:265:10:[m[K [01;36m[Knote: [m[Kdeclared here
+ void     [01;36m[Kg_thread_init[m[K                   (gpointer vtable);
+          [01;36m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:1041:67:[m[K [01;35m[Kwarning: [m[K‘[01m[KGThread* g_thread_create(GThreadFunc, gpointer, gboolean, GError**)[m[K’ is deprecated: Use 'g_thread_new' instead [[01;35m[K-Wdeprecated-declarations[m[K]
+                                        (void *) fd_ptr, TRUE, &err[01;35m[K)[m[K) == NULL) {
+                                                                   [01;35m[K^[m[K
+In file included from [01m[K/usr/include/glib-2.0/glib.h:108:0[m[K,
+                 from [01m[K/home/hojin/drone_ws/ethz_ws/mavros_ws/src/mavlink_ros/src/mavlink_ros_serial.cpp:53[m[K:
+[01m[K/usr/include/glib-2.0/glib/deprecated/gthread.h:104:10:[m[K [01;36m[Knote: [m[Kdeclared here
+ GThread *[01;36m[Kg_thread_create[m[K       (GThreadFunc       func,
+          [01;36m[K^~~~~~~~~~~~~~~[m[K

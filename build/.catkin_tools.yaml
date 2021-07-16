@@ -1,0 +1,6 @@
+devel_space: /home/hojin/drone_ws/ethz_ws/mavros_ws/devel
+install: false
+install_space: /home/hojin/drone_ws/ethz_ws/mavros_ws/install
+profile: default
+source_space: /home/hojin/drone_ws/ethz_ws/mavros_ws/src
+workspace: /home/hojin/drone_ws/ethz_ws/mavros_ws
